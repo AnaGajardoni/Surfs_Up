@@ -27,7 +27,7 @@ The same approach was done with Precipitation - the plot clearly shows the rain 
 Lastly, we created boxplots using the same data as in the previous two charts. It is very interesting to see an outlier in the precipitation chart, it was certainly an unusually rainy month!
 
 ![BoxPlotTempYear](/resources/BoxPlotTempYear.png)
-![BoxPlotTempYear](/resources/BoxPlotTempYear.png)
+![BoxPlotPrecYear](/resources/BoxPlotPrecYear.png)
 
 
 ## Summary
